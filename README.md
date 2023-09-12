@@ -30,11 +30,11 @@ Usage
 
 Example
 
-Here's an example of how the game works:
+Here's an example of how the game works: <br>
 
 Take a guess between 1-100 (type 'quit' to exit): 50
 
-Your guess is too low.
+ Your guess is too low. <br>
 
 Take a guess between 1-100 (type 'quit' to exit): 75
 
