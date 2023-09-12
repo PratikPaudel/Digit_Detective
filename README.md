@@ -30,42 +30,24 @@ Usage
 
 Example
 
-Here's an example of how the game works: <br>
-
+```python
 Take a guess between 1-100 (type 'quit' to exit): 50
-
- Your guess is too low. <br>
-
-Take a guess between 1-100 (type 'quit' to exit): 75
-
-Your guess is too high.
-
-Take a guess between 1-100 (type 'quit' to exit): 65
-
 Your guess is too low.
-
+Take a guess between 1-100 (type 'quit' to exit): 75
+Your guess is too high.
+Take a guess between 1-100 (type 'quit' to exit): 65
+Your guess is too low.
 Take a guess between 1-100 (type 'quit' to exit): 70
-
 Your guess is too high.
-
 Take a guess between 1-100 (type 'quit' to exit): 68
-
 Your guess is too high.
-
 Take a guess between 1-100 (type 'quit' to exit): 66
-
 You guessed it! The number was 66. You guessed it in 6 attempts.
-
 Your guessed numbers: [50, 75, 65, 70, 68, 66]
-
 Do you want to play again? (yes/no): no
-
 Thanks for playing Digit Detective!
-
 Your guessed numbers: [50, 75, 65, 70, 68, 66]
-
 Average guesses per game: 6.00
-
 
 Enjoy the Game!
 
